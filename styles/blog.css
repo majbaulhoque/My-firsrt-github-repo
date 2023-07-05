@@ -16,6 +16,7 @@
     margin: 15px;
 }
 .image{
-    border-radius: 2px solid white;
+    border: 2px solid purple;
+    box-shadow: 10px 17px 15px orange;
     width: 300px;
 }
