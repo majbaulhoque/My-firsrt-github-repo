@@ -15,3 +15,7 @@
     color: blueviolet;
     margin: 15px;
 }
+.image{
+    border-radius: 2px solid white;
+    width: 300px;
+}
